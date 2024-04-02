@@ -1,5 +1,8 @@
+# ETC
+.vagrant/
+*.log
+artifacts
+cluster-monitoring
 k3s-binary
 k3s-kube-config
 tags
-artifacts
-cluster-monitoring
